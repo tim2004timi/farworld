@@ -1,5 +1,8 @@
+import threading
+
+
 def main():
-    pass
+    thread = threading.Thread.__init__()
 
 
 if __name__ == "__main__":
